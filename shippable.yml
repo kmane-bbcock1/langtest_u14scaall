@@ -34,7 +34,7 @@ build:
 
   pre_ci_boot:
     image_name: drydock/u14scaall
-    image_tag: master
+    image_tag: v5.4.1
     pull: true
     
   ci:
